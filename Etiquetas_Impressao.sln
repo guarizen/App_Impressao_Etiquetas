@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etiquetas_Impressao", "Etiquetas_Impressao\Etiquetas_Impressao.csproj", "{521F03C2-AAFD-46CB-BFB0-D1439E25F456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521F03C2-AAFD-46CB-BFB0-D1439E25F456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521F03C2-AAFD-46CB-BFB0-D1439E25F456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521F03C2-AAFD-46CB-BFB0-D1439E25F456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521F03C2-AAFD-46CB-BFB0-D1439E25F456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE6309E-83AB-4EFD-851A-741B82A5C3C4}
+	EndGlobalSection
+EndGlobal
